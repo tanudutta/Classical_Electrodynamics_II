@@ -1,4 +1,4 @@
-A repository for the course Classical Electrodynamics II which i am crediting in August 2025 in TIFR Mumbai
+A repository for the course Classical Electrodynamics II which i am crediting in August 2025 semester at TIFR Mumbai.
 # Classical Electrodynamics II
 
 Instructor : Prof. Suvodip Mukherjee (suvodip@tifr.res.in)
