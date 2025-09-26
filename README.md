@@ -5,4 +5,4 @@ Instructor : Prof. Suvodip Mukherjee (suvodip@tifr.res.in)
 
 Student :  Santanu Dutta (santanu.dutta_255@tifr.res.in)
 
-Here i wil share the materials which will be necessary for credit this course. 
+Here i will share the materials which will be necessary for credit this course. 
